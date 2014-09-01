@@ -1,0 +1,14 @@
+# Generated java
+*.class
+
+# Android specific
+platforms/android/local.properties
+
+# Generated phonegap android
+platforms/android/assets
+platforms/android/ant-build
+platforms/android/ant-gen
+platforms/android/CordovaLib/ant-build
+platforms/android/CordovaLib/ant-gen
+
+
