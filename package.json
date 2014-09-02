@@ -16,6 +16,7 @@
     "url": "https://github.com/julianchurchill/JSGoClient/issues"
   },
   "devDependencies": {
-    "gulp": "~3.8.7"
+    "gulp": "~3.8.7",
+    "gulp-jasmine": "~1.0.0"
   }
 }
