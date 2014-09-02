@@ -3,6 +3,10 @@ JSGoClient
 
 A simple mobile Go (wei-qi) client app written in JavaScript using [phonegap](http://phonegap.com/).
 
+To run the test do this from the project root directory:
+
+ ./gulp test
+
 References
 ----------
 
@@ -10,11 +14,13 @@ References
 
 - [Quick start guide to phonegap and AngularJS](http://devgirl.org/2013/06/10/quick-start-guide-phonegap-and-angularjs/)
 - [Phonegap](http://phonegap.com/)
+- [How to test your JS and use it in a browser](http://www.rexfeng.com/blog/2014/07/how-to-unit-test-your-js-and-use-it-in-the-browser/)
 
 ### Tools
 
 - [Android SDK](http://developer.android.com/sdk/index.html)
 - [Phonegap/Cordova Command Line Interface (CLI)](http://docs.phonegap.com/en/edge/guide_cli_index.md.html#The%20Command-Line%20Interface)
+- [Gulp](http://gulpjs.com/)
 
 TODO
 ----
