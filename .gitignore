@@ -2,13 +2,13 @@
 *.class
 
 # Android specific
-platforms/android/local.properties
+goclient/platforms/android/local.properties
 
 # Generated phonegap android
-platforms/android/assets
-platforms/android/ant-build
-platforms/android/ant-gen
-platforms/android/CordovaLib/ant-build
-platforms/android/CordovaLib/ant-gen
+goclient/platforms/android/assets
+goclient/platforms/android/ant-build
+goclient/platforms/android/ant-gen
+goclient/platforms/android/CordovaLib/ant-build
+goclient/platforms/android/CordovaLib/ant-gen
 
 
