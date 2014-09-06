@@ -7,6 +7,10 @@ To run the test do this from the project root directory:
 
  ./gulp test
 
+To watch for files changes and automatically run the tests do thi:
+
+ ./gulp watch
+
 References
 ----------
 
