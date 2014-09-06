@@ -29,12 +29,6 @@ References
 TODO
 ----
 
-- Use [Gulp](http://gulpjs.com/) as a top-level build system
-    - tasks:
-        - 'test':'run jasmine tests'
-        - 'lint':'run jshint on js files'
-        - 'build':'cd goclient ; phonegap build android'
-        - 'install':'cd goclient ; phonegap install android'
 - Make a basic phonegap app, include ngMobile module from angular-mobile.js to remove click delays.
 - Add an empty 19x19 board which can be clicked to add stones until full
 - Click an occupied point removes the stone
@@ -43,4 +37,11 @@ TODO
 
 DONE
 ----
+
+- Use [Gulp](http://gulpjs.com/) as a top-level build system
+    - tasks:
+        - 'test':'run jasmine tests'
+        - 'lint':'run jshint on js files'
+        - 'build':'cd goclient ; phonegap build android'
+        - 'install':'cd goclient ; phonegap install android'
 
