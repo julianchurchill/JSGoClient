@@ -16,14 +16,19 @@ References
 
 ### Guides
 
-- [Quick start guide to phonegap and AngularJS](http://devgirl.org/2013/06/10/quick-start-guide-phonegap-and-angularjs/)
 - [Phonegap](http://phonegap.com/)
+- [Angular and Phonegap](http://briantford.com/blog/angular-phonegap)
+- [Quick start guide to phonegap and AngularJS](http://devgirl.org/2013/06/10/quick-start-guide-phonegap-and-angularjs/)
 - [How to test your JS and use it in a browser](http://www.rexfeng.com/blog/2014/07/how-to-unit-test-your-js-and-use-it-in-the-browser/)
 
 ### Tools
 
 - [Android SDK](http://developer.android.com/sdk/index.html)
 - [Phonegap/Cordova Command Line Interface (CLI)](http://docs.phonegap.com/en/edge/guide_cli_index.md.html#The%20Command-Line%20Interface)
+- [Yeoman](http://yeoman.io) - scaffolding for webapps, only used to create initial angularjs app structure in goclient/app
+    - Installed yeoman 'npm install -g yo'
+    - Installed yeoman angularjs generator 'npm install -g generator-angular'
+    - entered app directory and created an angular app with 'yo angular'
 - [Gulp](http://gulpjs.com/)
 
 TODO
