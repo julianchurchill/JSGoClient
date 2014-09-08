@@ -28,7 +28,8 @@ References
 - [Yeoman](http://yeoman.io) - scaffolding for webapps, only used to create initial angularjs app structure in goclient/app
     - Installed yeoman 'npm install -g yo'
     - Installed yeoman angularjs generator 'npm install -g generator-angular'
-    - entered app directory and created an angular app with 'yo angular'
+    - Entered app directory ('goclient/angular' in this case) and created an angular app with 'yo angular'
+    - Installed Compass from within app directory with 'gem update --system && gem install compass'
 - [Gulp](http://gulpjs.com/)
 
 TODO
